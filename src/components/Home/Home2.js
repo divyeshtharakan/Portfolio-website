@@ -57,7 +57,7 @@ SAP Labs transforming requirements into efficient solutions. Previously worked i
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/divyeshtharakan"
+                  href="www.linkedin.com/in/divyesh-tharakan"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
