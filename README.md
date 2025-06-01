@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v.0<br/>
-  <a href="https://shivraj-portfolio-site.vercel.app/" target="_blank">Shivraj Patil</a>
+  <a href="https://divyesh-website.vercel.app/" target="_blank">Divyesh Tharakan</a>
 </h2>
 <br/>
 
